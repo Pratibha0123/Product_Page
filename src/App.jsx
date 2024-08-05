@@ -1,5 +1,5 @@
 
-import {  Router, Route, Routes, HashRouter } from 'react-router-dom';
+import {  Route, Routes, HashRouter } from 'react-router-dom';
 import Product_page from './Components/Product_Page/Product_page';
 // import YourSizeModal from "./Components/YourSizeModal/YourSizeModal"
 
